@@ -1,0 +1,1 @@
+Variant = print('New Project in Python Comming Soon')
